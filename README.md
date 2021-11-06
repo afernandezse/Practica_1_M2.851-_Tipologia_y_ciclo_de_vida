@@ -8,7 +8,12 @@ Este trabajo corresponde a la práctica 1 de la asignatura Tipología y ciclo de
 # Miembros del equipo
 
 La actividad ha sido realizada de manera individual por Antonio Fernández Serra.
-Ficheros del código fuente
+
+# Ficheros del código fuente
+
+    Script: Prac1_CVD_def_04112021.py
+    Dataset: Practica1_afernandezse_def.xlsx
+    Dataset también disponible en Zenodo con el DOI: DOI: 10.5281/zenodo.5648435
 
 # Uso
 
